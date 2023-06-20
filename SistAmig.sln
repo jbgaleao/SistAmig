@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amigurumi.Web", "Amigurumi.Web\Amigurumi.Web.csproj", "{FEE1B7A3-B812-44C8-A954-14496FA70B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amigurumi.Data", "Amigurumi.Data\Amigurumi.Data.csproj", "{59CFFCA8-549B-4840-AE6C-FED687348063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE1B7A3-B812-44C8-A954-14496FA70B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE1B7A3-B812-44C8-A954-14496FA70B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE1B7A3-B812-44C8-A954-14496FA70B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE1B7A3-B812-44C8-A954-14496FA70B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CFFCA8-549B-4840-AE6C-FED687348063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CFFCA8-549B-4840-AE6C-FED687348063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CFFCA8-549B-4840-AE6C-FED687348063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CFFCA8-549B-4840-AE6C-FED687348063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C16035-2936-47A6-8B4A-C4362ACF925A}
+	EndGlobalSection
+EndGlobal
